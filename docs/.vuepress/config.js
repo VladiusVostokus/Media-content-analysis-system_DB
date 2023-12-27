@@ -76,7 +76,7 @@ module.exports = {
 
     lastUpdated: 'Останнє оновлення', // string | boolean
       // Assumes GitHub. Can also be a full GitLab url.
-    repo: 'https://github.com/Rembqq/Media-content-analysis-system_DB',
+    repo: 'https://github.com/VladiusVostokus/Media-content-analysis-system_DB',
     // Customising the header label
     // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
     repoLabel: 'Github',

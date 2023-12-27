@@ -3,7 +3,7 @@
   "version": "2.1.0",
   "main": "index.js",
   "description": "Databases course work template",
-  "repository": "https://github.com/Rembqq/Media-content-analysis-system_DB",
+  "repository": "https://github.com/VladiusVostokus/Media-content-analysis-system_DB",
   "author": "Nikita Volkovskyi <nikitavolkovskyi@gmail.com>",
   "license": "ECL 2.0",
   "scripts": {
