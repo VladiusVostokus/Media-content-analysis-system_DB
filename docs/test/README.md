@@ -1,38 +1,30 @@
 # Тестування працездатності системи
 
-## Запуск сервера
-<p>
-    <img src="./images/launch.png">
-</p>
+## Запуск сервера   
+![](../images/launch.png)
 
 ## Створення користувача
-<p>
-    <img src="./images/createUser.png">
-</p>
+![](../images/createUser.png)
 
 ## Отримати всіх користувачів
-<p>
-    <img src="./images/getAllUsers.png">
-</p>
+
+![](../images/getAllUsers.png)
 
 ## Отримати користувача
-<p>
-    <img src="./images/getUser.png">
-</p>
+
+![](../images/getUser.png)
 
 ## Оновлення паролю користувача
-<p>
-    <img src="./images/updatePassword.png">
-</p>
+
+![](../images/updatePassword.png)
 
 ## Видалення користувача
-<p>
-    <img src="./images/deleteUser.png">
-</p>
+
+![](../images/deleteUser.png)
 
 ## Помилка
-<p>
-    <img src="./images/error.png">
-</p>
+
+![](../images/error.png)
+
 
 
